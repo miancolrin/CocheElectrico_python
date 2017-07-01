@@ -1,5 +1,5 @@
 # CocheElectrico_python
-Un programa para hacer cálculos de coches eléctricos en Python
+Un programa para hacer cálculos de coches eléctricos en Python.
 Versión en Python para Mac. Para la versión de Windows ir a https://github.com/miancolrin/CocheElectrico
 
 Un programa para hacer cálculos sobre vehículos eléctricos.
